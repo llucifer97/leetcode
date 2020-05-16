@@ -44,7 +44,7 @@ Repository for solving the right questions and not grinding over redundant one
   - []() 
   - []() 
 * [DP on grids]() 
-  - []() 
+  - [Gold Mine Problem](https://www.geeksforgeeks.org/gold-mine-problem/) 
   - []() 
   - []() 
 * [DP on trees]() 
