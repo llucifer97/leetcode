@@ -1,5 +1,5 @@
 # leetcode
-Repository for solving the right questions and not grinding over redundant ones
+Repository for solving the right questions and not grinding over redundant one
 
 # TOPICS:
 1. DYNAMIC PROGRAMMING <br>
