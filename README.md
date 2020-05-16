@@ -1,9 +1,5 @@
 # leetcode
-Repository for solving the right questions and not grinding over redundant ones.
-
-### topic1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+Repository for solving the right questions and not grinding over redundant ones
 
 # TOPICS:
 1. DYNAMIC PROGRAMMING <br>
@@ -12,8 +8,6 @@ Hello, this is some text to fill in this, [here](#place-2), is a link to the sec
 
 
 ## Dynamic Programming Pattern
-### Built With
-
 * [0/1 Knapsack](#Knapsack) 
   - []() 
   - []() 
@@ -60,11 +54,6 @@ Hello, this is some text to fill in this, [here](#place-2), is a link to the sec
 * [DP on bits]() 
   - []() 
   - []() 
-
-
-
-
-### Place 2
 
 Place one has the fun times of linking here, but I can also link back [here](#TOPICS).
 # Knapsack
