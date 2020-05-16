@@ -17,7 +17,7 @@ Repository for solving the right questions and not grinding over redundant one
 * [subset sum]() 
   - []() 
   - []() 
-* [coin change]() 
+* [coin change](https://www.geeksforgeeks.org/coin-change-dp-7/) 
   - []() 
   - []() 
 * [Longest common subsequence]() 
