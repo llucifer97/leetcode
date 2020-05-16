@@ -8,7 +8,7 @@ Repository for solving the right questions and not grinding over redundant one
 
 
 ## Dynamic Programming Pattern
-* [0/1 Knapsack](#Knapsack) 
+* [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) 
   - []() 
   - []() 
 * [unbounded knapsack]() 
