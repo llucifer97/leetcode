@@ -8,6 +8,13 @@ Repository for solving the right questions and not grinding over redundant one
 
 
 ## Dynamic Programming Pattern
+* [Recursion]() 
+  - [Bell Numbers](https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/) 
+  - [Tilling Problem](https://www.geeksforgeeks.org/tiling-problem/) 
+  - [Friends Pairing Problem](https://www.geeksforgeeks.org/friends-pairing-problem/)
+  - [Tiling With Dominoes](https://www.geeksforgeeks.org/tiling-with-dominoes/)
+  - [Painting Fence Algorithm](https://www.geeksforgeeks.org/painting-fence-algorithm/)
+  
 * [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) 
   - []() 
   - []() 
