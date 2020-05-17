@@ -20,7 +20,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Target Sum](https://leetcode.com/problems/target-sum/) --leetcode
   - [count of subsets with sum equal to x](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x-using-recursion/?ref=rp)
   - [perfect-sum-problem](https://www.geeksforgeeks.org/perfect-sum-problem/)
-  - []()
+  - [Partition problem](https://leetcode.com/problems/partition-equal-subset-sum/)
   - []()
 * [coin change](https://www.geeksforgeeks.org/coin-change-dp-7/) 
   - []() 
