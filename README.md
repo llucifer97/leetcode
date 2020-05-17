@@ -12,7 +12,7 @@ Repository for solving the right questions and not grinding over redundant one
   - []() 
   - []() 
 * [unbounded knapsack]() 
-  - []() 
+  - [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) 
   - []() 
 * [subset sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) 
   - [subset sum divisible m](https://www.geeksforgeeks.org/subset-sum-divisible-m/) 
