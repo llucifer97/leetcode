@@ -14,7 +14,7 @@ Repository for solving the right questions and not grinding over redundant one
 * [unbounded knapsack]() 
   - []() 
   - []() 
-* [subset sum]() 
+* [subset sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) 
   - []() 
   - []() 
 * [coin change](https://www.geeksforgeeks.org/coin-change-dp-7/) 
