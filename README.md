@@ -38,7 +38,7 @@ Repository for solving the right questions and not grinding over redundant one
 * [Longest increasing subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/) 
   - [Maximum Sum Bitonic Subsequence](https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/) 
   - [Maximum Product Increasing Subsequenc](https://www.geeksforgeeks.org/maximum-product-increasing-subsequence/) 
-  - []() 
+  - [Count Subsequences Product Less K](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)     --Doubt
 * [Longest Common Substring]() 
   - []() 
   - []() 
