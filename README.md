@@ -16,12 +16,12 @@ Repository for solving the right questions and not grinding over redundant one
   - []() 
 * [subset sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) 
   - [subset sum divisible m](https://www.geeksforgeeks.org/subset-sum-divisible-m/) 
-  - [largest divisible subset](https://leetcode.com/problems/largest-divisible-subset/) -leetcode|gfg  --Doubt 
-  - [Target Sum](https://leetcode.com/problems/target-sum/) --leetcode
+  - [largest divisible subset](https://leetcode.com/problems/largest-divisible-subset/) -Leetcode  --Doubt 
+  - [Target Sum](https://leetcode.com/problems/target-sum/) --Leetcode
   - [count of subsets with sum equal to x](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x-using-recursion/?ref=rp)
   - [perfect-sum-problem](https://www.geeksforgeeks.org/perfect-sum-problem/)
   - [Partition problem](https://leetcode.com/problems/partition-equal-subset-sum/)
-  - []()
+  - [Partition of Subset Min difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 * [coin change](https://www.geeksforgeeks.org/coin-change-dp-7/) 
   - []() 
   - []() 
