@@ -39,6 +39,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Maximum Sum Bitonic Subsequence](https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/) 
   - [Maximum Product Increasing Subsequenc](https://www.geeksforgeeks.org/maximum-product-increasing-subsequence/) 
   - [Count Subsequences Product Less K](https://www.geeksforgeeks.org/count-subsequences-product-less-k/)     --Doubt
+  - [Maximum Length Chain Of Pairs](https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/)
 * [Longest Common Substring]() 
   - []() 
   - []() 
