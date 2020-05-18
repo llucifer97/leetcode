@@ -48,6 +48,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Count Palindromic Subsequence Given String](https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/) 
   - [Longest Palindrome Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/) 
   - [Count Palindrome Substring](https://www.geeksforgeeks.org/count-palindrome-sub-strings-string/) 
+  - [number of palindromic subsequences of length k](https://www.geeksforgeeks.org/number-of-palindromic-subsequences-of-length-k-where-k/) --Doubt
 * [Edit distance]() 
   - []() 
   - []() 
