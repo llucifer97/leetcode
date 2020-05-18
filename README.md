@@ -36,6 +36,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Longest Repeated Subsequence](https://www.geeksforgeeks.org/longest-repeated-subsequence/) 
   - [LCS for Three Strings](https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/) 
   - [Shortest Common Supersequence](https://www.geeksforgeeks.org/shortest-common-supersequence/)
+  - [Count Distinct Subsequences](https://www.geeksforgeeks.org/count-distinct-subsequences/)
 * [Longest increasing subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/) 
   - [Maximum Sum Bitonic Subsequence](https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/) 
   - [Maximum Product Increasing Subsequenc](https://www.geeksforgeeks.org/maximum-product-increasing-subsequence/) 
