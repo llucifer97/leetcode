@@ -19,7 +19,7 @@ Repository for solving the right questions and not grinding over redundant one
 * [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) 
   - []() 
   - []() 
-* [unbounded knapsack]() 
+* [unbounded knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) 
   - [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) 
   - []() 
 * [subset sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) 
