@@ -86,8 +86,13 @@ Repository for solving the right questions and not grinding over redundant one
   - []()
 * [DP on grids]() 
   - [Gold Mine Problem](https://www.geeksforgeeks.org/gold-mine-problem/) 
+  - [minimum sum path](https://www.geeksforgeeks.org/minimum-sum-path-triangle/) 
   - []() 
   - []() 
+  - []() 
+  - []()
+  - []() 
+
 * [DP on trees]() 
   - [Vertex Cover Problem](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/) 
   - [Largest Independent Set](https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/) 
