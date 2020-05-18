@@ -22,7 +22,7 @@ Repository for solving the right questions and not grinding over redundant one
 * [unbounded knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) 
   - [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) 
   - []() 
-* [subset sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) 
+* [subset  sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/) 
   - [subset sum divisible m](https://www.geeksforgeeks.org/subset-sum-divisible-m/) 
   - [largest divisible subset](https://leetcode.com/problems/largest-divisible-subset/) -Leetcode  --Doubt 
   - [Target Sum](https://leetcode.com/problems/target-sum/) --Leetcode
