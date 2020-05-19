@@ -18,6 +18,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Highway Billboard Problem](https://www.hackerrank.com/challenges/billboards/editorial)
   - [choose maximum weight given weight value ratio](https://www.geeksforgeeks.org/choose-maximum-weight-given-weight-value-ratio/)
   - [maximum sum subsequence least k distant elements](https://www.geeksforgeeks.org/maximum-sum-subsequence-least-k-distant-elements/)
+  - [maximum number of trailing zeros](https://www.geeksforgeeks.org/maximum-number-of-trailing-zeros-in-the-product-of-the-subsets-of-size-k/)
 * [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) 
   - [maximum sum array length less equal m](https://www.geeksforgeeks.org/find-maximum-sum-array-length-less-equal-m/) --Doubt
   - [maximum dot product two arrays insertion 0s](https://www.geeksforgeeks.org/find-maximum-dot-product-two-arrays-insertion-0s/) --Doubt
@@ -53,7 +54,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Shortest Common Supersequence](https://www.geeksforgeeks.org/shortest-common-supersequence/)
   - [Count Distinct Subsequences](https://www.geeksforgeeks.org/count-distinct-subsequences/) --Doubt
   - [Minimum Insertions To Form A Palindrome](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/)
-  - []()
+  - [minimum cost make two strings identical](https://www.geeksforgeeks.org/minimum-cost-make-two-strings-identical/)
   - []()
   - []()
 * [Longest increasing subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/) 
@@ -65,7 +66,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Box Stacking Problem](https://www.geeksforgeeks.org/box-stacking-problem-dp-22/)
   - [Weighted Job Scheduling](https://www.geeksforgeeks.org/weighted-job-scheduling-set-2-using-lis/)
   - [Building Bridges](https://www.geeksforgeeks.org/dynamic-programming-building-bridges/)
-  - []()
+  - [minimum insertions sort array](https://www.geeksforgeeks.org/minimum-insertions-sort-array/)
 * [Longest Common Substring](https://www.geeksforgeeks.org/longest-common-substring-dp-29/) 
   - []() 
   - []() 
@@ -87,7 +88,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [maximum sum subarray removing one element](https://www.geeksforgeeks.org/maximum-sum-subarray-removing-one-element/)
   - [K maximum sums non-overlapping contiguous subarrays](https://www.geeksforgeeks.org/k-maximum-sums-non-overlapping-contiguous-sub-arrays/)
   - [Maximum product subarray](https://www.geeksforgeeks.org/maximum-product-subarray-added-negative-product-case/)
-  - []()
+  - [minimum sum submatrix given 2d array](https://www.geeksforgeeks.org/minimum-sum-submatrix-given-2d-array/)
   - []()
   
 * [Matrix chain multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/) 
@@ -101,11 +102,11 @@ Repository for solving the right questions and not grinding over redundant one
 * [DP on grids]() 
   - [Gold Mine Problem](https://www.geeksforgeeks.org/gold-mine-problem/) 
   - [minimum sum path](https://www.geeksforgeeks.org/minimum-sum-path-triangle/) 
-  - []() 
-  - []() 
-  - []() 
-  - []()
-  - []() 
+  - [max decimal value path in a binary matrix](https://www.geeksforgeeks.org/maximum-decimal-value-path-in-a-binary-matrix/) 
+  - [max sqsubmatrix with equal ele](https://www.geeksforgeeks.org/finding-the-maximum-square-sub-matrix-with-all-equal-elements/) 
+  - [maximum points collected by two persons allowed to meet once](https://www.geeksforgeeks.org/maximum-points-collected-by-two-persons-allowed-to-meet-once/)   --Doubt 
+  - [minimum sum path 3d array](https://www.geeksforgeeks.org/minimum-sum-path-3-d-array/)
+  - [minimum positive points to reach destination](https://www.geeksforgeeks.org/minimum-positive-points-to-reach-destination/) 
 
 * [DP on trees]() 
   - [Vertex Cover Problem](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/) 
