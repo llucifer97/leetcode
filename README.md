@@ -16,7 +16,13 @@ Repository for solving the right questions and not grinding over redundant one
   - [Painting Fence Algorithm](https://www.geeksforgeeks.org/painting-fence-algorithm/)
   - [Tile Stacking Problem](https://www.geeksforgeeks.org/tile-stacking-problem/)
   - [Highway Billboard Problem](https://www.hackerrank.com/challenges/billboards/editorial)
+  - [choose maximum weight given weight value ratio](https://www.geeksforgeeks.org/choose-maximum-weight-given-weight-value-ratio/)
+  - [maximum sum subsequence least k distant elements](https://www.geeksforgeeks.org/maximum-sum-subsequence-least-k-distant-elements/)
 * [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) 
+  - [maximum sum array length less equal m](https://www.geeksforgeeks.org/find-maximum-sum-array-length-less-equal-m/) --Doubt
+  - [maximum dot product two arrays insertion 0s](https://www.geeksforgeeks.org/find-maximum-dot-product-two-arrays-insertion-0s/) --Doubt
+  - []() 
+  - []() 
   - []() 
   - []() 
 * [unbounded knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) 
@@ -79,8 +85,8 @@ Repository for solving the right questions and not grinding over redundant one
 * [Kadane’s algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
   - [maximum subarray sum using prefix sum](https://www.geeksforgeeks.org/maximum-subarray-sum-using-prefix-sum/)
   - [maximum sum subarray removing one element](https://www.geeksforgeeks.org/maximum-sum-subarray-removing-one-element/)
-  - []()
-  - []()
+  - [K maximum sums non-overlapping contiguous subarrays](https://www.geeksforgeeks.org/k-maximum-sums-non-overlapping-contiguous-sub-arrays/)
+  - [Maximum product subarray](https://www.geeksforgeeks.org/maximum-product-subarray-added-negative-product-case/)
   - []()
   - []()
   
