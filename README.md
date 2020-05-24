@@ -153,10 +153,9 @@ Place one has the fun times of linking here, but I can also link back [here](#TO
 
 
 ## DIVIDE AND CONQUERE
- * [Binary Search]() 
+* [Binary Search]() 
     - [The painter’s partition problem](https://www.geeksforgeeks.org/painters-partition-problem/)
     - [Allocate minimum number of pages](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-   
 * [Closest Pair of Points](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/)
 * [strassens matrix multiplication](https://www.geeksforgeeks.org/strassens-matrix-multiplication/)
 * [Skyline Problem](https://www.geeksforgeeks.org/divide-and-conquer-set-7-the-skyline-problem/)
@@ -170,4 +169,11 @@ Place one has the fun times of linking here, but I can also link back [here](#TO
 * [Master Theorem](https://www.geeksforgeeks.org/advanced-master-theorem-for-divide-and-conquer-recurrences/)
 * [Merge K sorted array](https://www.geeksforgeeks.org/merge-k-sorted-arrays-set-3-using-divide-and-conquer-approach/?ref=rp)
 * [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+
+## BACKTRACKING
+-[]()
+
+
+
+
 
