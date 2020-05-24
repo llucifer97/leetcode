@@ -1,12 +1,16 @@
-# leetcode
+# TODO
 Repository for solving the right questions and not grinding over redundant one
 
 # TOPICS:
 1. DYNAMIC PROGRAMMING <br>
 2. BACKTRACKING <br>
-3. TREES/BFS/DFS/BST<br>
-4. Divide and Conquer
-
+3. DIVIDE AND CONQUERE<br>
+4. GREEDY<br>
+5. GRAPH ALGORITHM<br>
+6. BRANCH AND BOUND<br>
+7. PATTERN MATCHING<br>
+8. RANDOMISED ALGORITHM<br>
+9. sORTING/SEARCHING
 
 ## Dynamic Programming Pattern
 * [Recursion]() 
@@ -158,13 +162,28 @@ Place one has the fun times of linking here, but I can also link back [here](#TO
 
 
 
-## Divide and Conquer
+## DIVIDE AND CONQUERE
  * [Binary Search]() 
-  - []()
-  - []()
+  - [The painter’s partition problem](https://www.geeksforgeeks.org/painters-partition-problem/)
+  - [Allocate minimum number of pages](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
   - []()
   - []()
   - []()
 * [Closest Pair of Points](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/)
 * [strassens matrix multiplication](https://www.geeksforgeeks.org/strassens-matrix-multiplication/)
-  
+* [Skyline Problem](https://www.geeksforgeeks.org/divide-and-conquer-set-7-the-skyline-problem/)
+* [MOs Algorithm](https://www.geeksforgeeks.org/distinct-elements-subarray-using-mos-algorithm/)
+* [Longest Common Prefix](https://www.geeksforgeeks.org/longest-common-prefix-using-divide-and-conquer-algorithm/)
+* [Convex Hull](https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/)
+* [Quickhull Algorithm](https://www.geeksforgeeks.org/quickhull-algorithm-convex-hull/)
+* [Largest Rectangular Area](https://www.geeksforgeeks.org/largest-rectangular-area-in-a-histogram-set-1/)
+* [Iterative Tower of Hanoi](https://www.geeksforgeeks.org/iterative-tower-of-hanoi/)
+* [FFT](https://www.geeksforgeeks.org/iterative-fast-fourier-transformation-polynomial-multiplication/)
+* [Master Theorem](https://www.geeksforgeeks.org/advanced-master-theorem-for-divide-and-conquer-recurrences/)
+* [Merge K sorted array](https://www.geeksforgeeks.org/merge-k-sorted-arrays-set-3-using-divide-and-conquer-approach/?ref=rp)
+* [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+* []()
+* []()
+* []()
+* []()
+* []()
