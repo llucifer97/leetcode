@@ -5,6 +5,7 @@ Repository for solving the right questions and not grinding over redundant one
 1. DYNAMIC PROGRAMMING <br>
 2. BACKTRACKING <br>
 3. TREES/BFS/DFS/BST<br>
+4. Divide and Conquer
 
 
 ## Dynamic Programming Pattern
@@ -154,5 +155,16 @@ Repository for solving the right questions and not grinding over redundant one
   - []()
   - []()
 Place one has the fun times of linking here, but I can also link back [here](#TOPICS).
-# Knapsack
- 
+
+
+
+## Divide and Conquer
+ * [Binary Search]() 
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+* [Closest Pair of Points](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/)
+* [strassens matrix multiplication](https://www.geeksforgeeks.org/strassens-matrix-multiplication/)
+  
