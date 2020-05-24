@@ -31,14 +31,13 @@ Repository for solving the right questions and not grinding over redundant one
   - [word wrap problem](https://www.geeksforgeeks.org/word-wrap-problem-dp-19/)
   - [Maximize arr[j] – arr[i] + arr[l] – arr[k]](https://www.geeksforgeeks.org/maximize-arrj-arri-arrl-arrk-such-that-i-j-k-l/)
   - []()
-  - []()
+
 * [0/1 Knapsack](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/) 
   - [maximum sum array length less equal m](https://www.geeksforgeeks.org/find-maximum-sum-array-length-less-equal-m/) --Doubt
   - [maximum dot product two arrays insertion 0s](https://www.geeksforgeeks.org/find-maximum-dot-product-two-arrays-insertion-0s/) --Doubt
   - [Check if all people can vote on two machines](https://www.geeksforgeeks.org/check-people-can-vote-two-machines/) 
   - []() 
-  - []() 
-  - []() 
+ 
 * [unbounded knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) 
   - [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) 
   - []() 
@@ -51,16 +50,13 @@ Repository for solving the right questions and not grinding over redundant one
   - [Partition problem](https://leetcode.com/problems/partition-equal-subset-sum/)
   - [Partition of Subset Min difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
   - []()
-  - []()
+
 * [coin change](https://www.geeksforgeeks.org/coin-change-dp-7/) 
   - [Dice Throw | DP-30](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) 
   - [count of different ways](https://www.geeksforgeeks.org/count-ofdifferent-ways-express-n-sum-1-3-4/) 
   - [probability reaching point](https://www.geeksforgeeks.org/probability-reaching-point-2-3-steps-time/)
   - []()
-  - []()
-  - []()
-  - []()
-  - []()
+
 * [Longest common subsequence](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/) 
   - [Longest Repeated Subsequence](https://www.geeksforgeeks.org/longest-repeated-subsequence/) 
   - [LCS for Three Strings](https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/) 
@@ -69,7 +65,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Minimum Insertions To Form A Palindrome](https://www.geeksforgeeks.org/minimum-insertions-to-form-a-palindrome-dp-28/)
   - [minimum cost make two strings identical](https://www.geeksforgeeks.org/minimum-cost-make-two-strings-identical/)
   - []()
-  - []()
+
 * [Longest increasing subsequence](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/) 
   - [Maximum Sum Bitonic Subsequence](https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/) 
   - [Maximum Product Increasing Subsequenc](https://www.geeksforgeeks.org/maximum-product-increasing-subsequence/) 
@@ -84,8 +80,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [maximum sum bitonic subarray](https://www.geeksforgeeks.org/maximum-sum-bitonic-subarray/)
 * [Longest Common Substring](https://www.geeksforgeeks.org/longest-common-substring-dp-29/) 
   - []() 
-  - []() 
-  - []() 
+   
 * [Longest palindromic subsequence](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/) 
   - [Count Palindromic Subsequence Given String](https://www.geeksforgeeks.org/count-palindromic-subsequence-given-string/) 
   - [Longest Palindrome Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/) 
@@ -93,11 +88,10 @@ Repository for solving the right questions and not grinding over redundant one
   - [number of palindromic subsequences of length k](https://www.geeksforgeeks.org/number-of-palindromic-subsequences-of-length-k-where-k/) --Doubt
   - [Minimum Number Deletions Make String Palindrome](https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/)
   - []()
-  - []()
+  
 * [Edit distance]() 
   - []() 
-  - []() 
-  - []() 
+
 * [Kadane’s algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
   - [maximum subarray sum using prefix sum](https://www.geeksforgeeks.org/maximum-subarray-sum-using-prefix-sum/)
   - [maximum sum subarray removing one element](https://www.geeksforgeeks.org/maximum-sum-subarray-removing-one-element/)
@@ -107,8 +101,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Maximum Subarray Sum Excluding Certain Elements](https://www.geeksforgeeks.org/maximum-subarray-sum-excluding-certain-elements/)
   - [K maximum sums of overlapping contiguous sub-arrays](https://www.geeksforgeeks.org/k-maximum-sum-overlapping-contiguous-sub-arrays/)
   - []()
-  - []()
-  - []()
+ 
 * [Matrix chain multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/) 
   - [Egg Dropping Puzzle](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/) 
   - [Boolean Parenthesization](https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/) 
@@ -139,8 +132,7 @@ Repository for solving the right questions and not grinding over redundant one
   - [Maximum points from top left of matrix to bottom right and return back](https://www.geeksforgeeks.org/maximum-points-top-left-matrix-bottom-right-return-back/)
   - [Check whether row or column swaps produce maximum size binary sub-matrix with all 1s](https://www.geeksforgeeks.org/check-whether-row-column-swap-produces-maximum-size-binary-sub-matrix-1s/)
   - []()
-  - []()
-  - []()
+ 
 * [DP on trees]() 
   - [Count Balanced Binary Trees of Height h](https://www.geeksforgeeks.org/count-balanced-binary-trees-height-h/)
   - [Vertex Cover Problem](https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/) 
@@ -155,20 +147,16 @@ Repository for solving the right questions and not grinding over redundant one
   - [bridge torch problem](https://www.geeksforgeeks.org/program-bridge-torch-problem/) 
   - [Find all combinations of k-bit numbers with n bits set](https://www.geeksforgeeks.org/find-combinations-k-bit-numbers-n-bits-set-1-n-k-sorted-order/)
   - []()
-  - []()
-  - []()
-  - []()
+
 Place one has the fun times of linking here, but I can also link back [here](#TOPICS).
 
 
 
 ## DIVIDE AND CONQUERE
  * [Binary Search]() 
-  - [The painter’s partition problem](https://www.geeksforgeeks.org/painters-partition-problem/)
-  - [Allocate minimum number of pages](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-  - []()
-  - []()
-  - []()
+    - [The painter’s partition problem](https://www.geeksforgeeks.org/painters-partition-problem/)
+    - [Allocate minimum number of pages](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
+   
 * [Closest Pair of Points](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/)
 * [strassens matrix multiplication](https://www.geeksforgeeks.org/strassens-matrix-multiplication/)
 * [Skyline Problem](https://www.geeksforgeeks.org/divide-and-conquer-set-7-the-skyline-problem/)
@@ -182,8 +170,4 @@ Place one has the fun times of linking here, but I can also link back [here](#TO
 * [Master Theorem](https://www.geeksforgeeks.org/advanced-master-theorem-for-divide-and-conquer-recurrences/)
 * [Merge K sorted array](https://www.geeksforgeeks.org/merge-k-sorted-arrays-set-3-using-divide-and-conquer-approach/?ref=rp)
 * [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
-* []()
-* []()
-* []()
-* []()
-* []()
+
